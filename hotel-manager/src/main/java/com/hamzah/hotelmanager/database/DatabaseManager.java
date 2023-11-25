@@ -73,7 +73,6 @@ public class DatabaseManager
 
 	public void closeConn()
 	{
-
 		if (connection != null)
 		{
 			try
